@@ -11,10 +11,13 @@ tmp/
 *.bak
 *.swp
 *~.nib
+*.xml
+*.iml
 local.properties
 .classpath
 .settings/
 .loadpath
+.idea
 
 # External tool builders
 .externalToolBuilders/
